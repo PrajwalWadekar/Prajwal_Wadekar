@@ -1,4 +1,4 @@
-# Prajwal W - TANDEMLOOP Screening Test Solutions
+# Prajwal Wadekar
 
 This repository contains my solutions.
 
